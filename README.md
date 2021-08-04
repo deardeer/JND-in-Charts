@@ -2,7 +2,7 @@
 
 Supplemental materials for the paper on _Modeling Just Noticeable Differences in Charts_ accepted in IEEE VIS'21.
 
-<img src="https://github.com/deardeer/JND-in-Charts/blob/main/model_jnd.png" width=500></img>
+<img src="https://github.com/deardeer/JND-in-Charts/blob/main/model_jnd.png" width=800></img>
 
 ## 'stimuli_data' folder 
 
