@@ -7,6 +7,7 @@ Supplemental materials for our paper on _Modeling Just Noticeable Differences in
 ## 'stimuli_data' folder 
 
 the bounds for conditions, meta data driven 7200 plots
+
 	- *_bounds.csv // (epsilon_lower epsilon_upper) for each conditions in three charts
 	- plot_data/*_test_*.json // data for the 7200 plots, i.e., heights of bars (in pixel) for bar chart, radius for bubbles in bubble chart, angles of fan in pie chart
 	- plot_data/*_meta_*.json // meta data for the 7200 plots, i.e., the 'intensity of standard stimulus' (baseHeight/baseR/baseAngle) in each plot, 'difference' (delta*), and 'distance' (gap*)
