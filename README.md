@@ -1,6 +1,6 @@
 # Modeling Just Noticeable Differences in Charts
 
-Supplemental materials for our paper on _Modeling Just Noticeable Differences in Charts_
+Supplemental materials for the paper on _Modeling Just Noticeable Differences in Charts_ accepted in IEEE VIS'21.
 
 
 
