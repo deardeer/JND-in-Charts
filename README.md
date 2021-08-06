@@ -75,7 +75,7 @@ the python / R script that we run to analysis the data
 ## To cite this work
 
 ```
-@article{lu2020enhancing,
+@article{lu2021jnd,
   title={Modeling Just Noticeable Differences in Charts},
   author={Lu, Min and Lanir, Joel and Wang, Chufeng and Yao, Yucong and Zhang, Wen and Duessen, Oliver and Huang, Hui},
   journal={IEEE Transactions on Visualization and Computer Graphics},
